@@ -7,4 +7,5 @@
 	Lemon?
 
 Slice apples 
-melt butter
+
+Use cold butter
